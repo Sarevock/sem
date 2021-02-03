@@ -1,1 +1,1 @@
-Bo! Bo!
+- Master Build Status [![Build Status](https://travis-ci.com/Sarevock/sem.svg?branch=main)](https://travis-ci.com/Sarevock/sem)
